@@ -1,2 +1,9 @@
 In First Quarter Code, there is a code of color detection....that can detect the code of picture (jog, png etc) and show a color name..
 
+If ur Kernal Gives U Any kind of error try To run it Via Terminal (Cmd)
+Example:
+
+1. Open Terminal
+2. write "python color_detection.py -i bird.jpg"
+3. Press Enter
+
